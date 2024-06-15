@@ -1,0 +1,9 @@
+.venv
+.idea
+.idea/
+.idea/*
+*.iml
+
+.prod.env
+
+**/__pycache__
